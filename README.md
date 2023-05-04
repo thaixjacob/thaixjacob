@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=thaixjacob" alt="thaixjacob" /></p>
 
-<h1 align = "justify"> Hi there! I am Thais Jacob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align = "justify"> Hi there! I am Thais Jacob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 <p align = "justify">I'm a Frontend Developer with a background in UX/UI Design.</p>
 
 *   🌍  I'm based in Málaga, Spain
@@ -33,6 +33,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-thaisjacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thaisjacob/)](https://linkedin.com/in/thaisjacob/)
 [![Gmail Badge](https://img.shields.io/badge/-tjlannes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjlannes@gmail.com)](mailto:tjlannes@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@tjlannes-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@tjlannes/)](https://medium.com/@tjlannes)
+
+<img src=https://miro.medium.com/v2/resize:fit:640/0*VV3Nmxgv3KX4sLhr.gif" width="50px">
 
 <!--
 **thaixjacob/thaixjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
