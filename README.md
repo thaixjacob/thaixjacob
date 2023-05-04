@@ -30,9 +30,9 @@
 
 ## 💬 Drop me a line!
 
-[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thaisjacob/)](https://linkedin.com/in/thaisjacob/)
-[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjlannes@gmail.com)](mailto:tjlannes@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@tjlannes/)](https://medium.com/@tjlannes)
+[![Linkedin Badge](https://img.shields.io/badge/-Thais-Jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/thaisjacob/)](https://linkedin.com/in/thaisjacob/)
+[![Gmail Badge](https://img.shields.io/badge/-tjlannes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjlannes@gmail.com)](mailto:tjlannes@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@tjlannes-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@tjlannes/)](https://medium.com/@tjlannes)
 
 <!--
 **thaixjacob/thaixjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
