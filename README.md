@@ -34,7 +34,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tjlannes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjlannes@gmail.com)](mailto:tjlannes@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@tjlannes-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@tjlannes/)](https://medium.com/@tjlannes)
 
-<img src=https://miro.medium.com/v2/resize:fit:640/0*VV3Nmxgv3KX4sLhr.gif" width="50px">
+![](https://miro.medium.com/v2/resize:fit:640/0*VV3Nmxgv3KX4sLhr.gif)
 
 <!--
 **thaixjacob/thaixjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
