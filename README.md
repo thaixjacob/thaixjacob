@@ -3,12 +3,12 @@
 <h1 align = "justify"> Hi there! I am Thais Jacob <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 <p align = "justify">I'm a Frontend Developer with a background in UX/UI Design.</p>
 
-*   🌍  I'm based in Málaga, Spain
-*   🔭  I am currently working at [Accenture](https://www.accenture.com/es-es) as a front-end developer
-*   🧡  I'm an admirer of advances in **Extended Reality** and **IA**
-*   🧠  I'm learning at the moment **ReactNative**
-*   😅  I don't like coffee but I love how it smells
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   I'm based in Málaga, Spain
+*   I am currently working at [Accenture](https://www.accenture.com/es-es) as a front-end developer
+*   I'm an admirer of advances in **Extended Reality** and **IA**
+*   I'm learning at the moment **ReactNative**
+*   I don't like coffee but I love how it smells
+*   I'm open to collaborating on interesting projects as a developer
 
 ## 💻 Technologies and tools
 
