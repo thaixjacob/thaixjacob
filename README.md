@@ -58,13 +58,6 @@ As a passionate about technology and its advancements, I found myself interested
 
 <br>
 
-## ⚡ GitHub Stats - _(I use GitLab for work)_
-
-<div align="center" width="100%">
-  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thaixjacob&theme=light" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=thaixjacob&theme=light" />
-</div>
-
 ---
 
 <p align="center">
@@ -74,6 +67,8 @@ As a passionate about technology and its advancements, I found myself interested
 </p>
 
 ---
+
+<br>
 
 > Check out my [LinkedIn](https://linkedin.com/in/thaisjacob/) &nbsp;&middot;&nbsp;
 > See my projects on [GitHub](https://github.com/thaixjacob) &nbsp;&middot;&nbsp;
